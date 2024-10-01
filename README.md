@@ -40,7 +40,7 @@ set CUB_HOME=path/to/cub
 ```
 
 #### Step 6: Install C++ Build Tools
-Install C++ Build Tools using Visual Studio 2019's C++ Installer. The installation should look like this:
+Install C++ Build Tools using Visual Studio 2019's C++ Installer. Download it from [here](https://aka.ms/vs/16/release/vs_buildtools.exe). The installation should look like this:
 
 ![Visual Studio C++ Installer](vs_19_cpp.png)
 
